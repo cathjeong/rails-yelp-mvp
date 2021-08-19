@@ -11,3 +11,21 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+// http://simple-form-bootstrap.plataformatec.com.br/
+
+.header {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bolder;
+  padding: 12px;
+}
+
+.table {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 12px;
+}
+
+th {
+  background:rgb(239, 168, 3);
+}
